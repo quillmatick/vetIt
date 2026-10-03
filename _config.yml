@@ -1,0 +1,4 @@
+title: Vet
+description: A phishing message checker that reads the message and tells you plainly whether it is a scam.
+theme: jekyll-theme-minimal
+show_downloads: false
